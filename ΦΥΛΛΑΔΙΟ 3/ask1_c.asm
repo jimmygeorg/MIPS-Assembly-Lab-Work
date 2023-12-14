@@ -1,3 +1,5 @@
+#Να εμφανίζει στο παράθυρο Run I/O το string Hello
+
 .data 
 msg: .asciiz "Hello\n"
 
