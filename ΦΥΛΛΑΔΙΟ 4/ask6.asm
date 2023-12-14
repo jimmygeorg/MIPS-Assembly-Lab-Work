@@ -1,3 +1,4 @@
+#προγραμμα που θα διαβαζει x,y και θα τυπωνει x γραμμες με y '*' στη καθεμια
 .data
 	msg1: .asciiz "Enter x:"
 	msg2: .asciiz "Enter y:"
