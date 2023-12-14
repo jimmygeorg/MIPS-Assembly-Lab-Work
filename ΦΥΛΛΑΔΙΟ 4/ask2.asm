@@ -1,3 +1,11 @@
+# Πρόγραμμα που να διαβάζει ένα ακέραιο και να εμφανίζει το μήνυμα «Positive» ή το μήνυμα «Non Positive». Χρησιμοποιήστε ως αφετηρία τον ακόλουθο κώδικα C:
+# scanf(‚%d‛, &n);
+# if (n>0) goto 1;
+# printf(‚Non Positive‛);
+# goto 2:
+# 1: printf(‚Positive‛);
+# 2: ............
+
 .data
 	num: .word 30
 	pos: .asciiz "Positive"
