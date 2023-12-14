@@ -18,7 +18,7 @@
 	add $t1, $a2, 10
 	sub $t2, $t0, $t1
 
-	move $a0, $t2	#ôï syscall 1 ðåñéìåíåé ç áîéá íá ôõðùèåé óôïí $a0
+	move $a0, $t2
 	syscall
 	
 	
