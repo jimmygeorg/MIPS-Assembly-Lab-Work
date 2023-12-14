@@ -1,3 +1,7 @@
+# Να εμφανίζει στο παράθυρο Run I/O την ακόλουθη σειρά από strings:
+# Hello
+# ICE
+
 .data 
 msg: .asciiz "Hello"
 msg2: .asciiz "ICE"
